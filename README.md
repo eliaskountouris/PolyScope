@@ -4,7 +4,7 @@ AI summarizer chrome extension
 How to install:
 
 1. Download repository as zip
-2. Unzip file
+2. Exctract or unzip the file.
 3. Type chrome://extensions in google chrome
 4. Turn on developer mode (top right)
 5. Click "load unpacked' (top left)
