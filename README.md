@@ -14,7 +14,8 @@ How to install:
 
 SIDENOTE: if you receive an error like "manifest not found," check to see if the folder you are opening has all the files in it. Sometimes unzipping creates another folder inside the main folder with all the files inside of it. If thats the case click on that folder instead. 
 
-7. Pin extension to chrome 
+7. Click the puzzle piece icon in the top right of chrome
+8. Look for the pin icon next to PolyScope, click it.
 8. Go to any online article
 9. Click on the extension
 10. Hit summarize
