@@ -1,6 +1,8 @@
 # PolyScope
 AI summarizer chrome extension
 
+Disclaimer: You need to be on a computer and using google chrome as your web browser
+
 How to install:
 
 1. Press the green button that says code.
